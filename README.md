@@ -1,4 +1,4 @@
-# Hi there, I'm Giovanni! 👋
+# Hi there, I'm Gio! 👋
 ![Discord banner](https://github.com/user-attachments/assets/43192f6c-bf6f-455b-9362-61fb01abf856)
 
 
@@ -12,4 +12,4 @@ I'm a passionate cybersecurity student with experience in network analysis, log 
 - 🌍 Languages: English , Spanish, Python3. 
 - ⚡ Fun fact: I enjoy BJJ and Muay thai in my free time, on top of listening to cybersecurity podcasts such as darknet diaries. 
 
-# innavoig
+# oig
