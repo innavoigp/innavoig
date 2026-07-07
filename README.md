@@ -22,8 +22,5 @@ I came out of the Marine Corps as a CBRN Defense Specialist and taught myself in
 | [blue-team-toolkit](#) | DFIR + detection tooling built and battle-tested in live competition defense |
 | [usable-security](#) | Security tools built so non-technical people can actually use them |
 
-## 📫 Reach me
-
-[LinkedIn](#) · giobuilds.com *(or your domain of choice)*
 
 > *Marine Corps security operations, then I learned the technical side the hard way — by building it, breaking it, and fixing it.*
