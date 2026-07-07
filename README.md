@@ -1,15 +1,29 @@
 # Hi there, I'm Gio! 👋
-![Discord banner](https://github.com/user-attachments/assets/43192f6c-bf6f-455b-9362-61fb01abf856)
 
-
+**USMC veteran → security engineer in training.** I build and defend real infrastructure, then I attack it to find what I missed.
 
 ## About Me 🚀
 
-I'm a passionate cybersecurity student with experience in network analysis, log analysis and technical compliance. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I came out of the Marine Corps as a CBRN Defense Specialist and taught myself into cybersecurity by building a production-grade homelab and defending live environments in blue-team competitions. My focus is **defensive security and detection engineering** — the part where you teach systems what an attack actually looks like, not just watch alerts roll by.
 
-- 🌱 Currently learning: CompTIA Security + Certification 
-- 🔭 Working on: Raspberry Pi Pi-hole 
-- 🌍 Languages: English , Spanish, Python3. 
-- ⚡ Fun fact: I enjoy BJJ and Muay thai in my free time, on top of listening to cybersecurity podcasts such as darknet diaries. 
+- 🛡️ **Blue team, competition-tested:** SoCalCyberCup blue-team lead · National Cyber League (DFIR)
+- 🏠 **Homelab:** Proxmox virtualization, NAS storage, VLAN network segmentation, Pi-hole DNS filtering, Tailscale zero-trust remote access, encrypted offsite backups
+- 📜 **Certified:** CompTIA Security+ · ISC² CC · CompTIA ITF+
+- 🌱 **Currently leveling up:** CySA+ · Splunk · AI-assisted detection workflows
+- 🎓 A.S. Cybersecurity → B.S. Cybersecurity (in progress)
+- 🌍 **Languages:** English, Spanish, Python 3
+- ⚡ **Fun fact:** BJJ and Muay Thai in my free time — defense in depth applies to people too. Fueled by Darknet Diaries.
 
-# oig
+## Flagship Projects 🧰
+
+| Project | What it is |
+|---|---|
+| [homelab](#) | My self-hosted data center: architecture, hardening, and the reasoning behind every decision |
+| [blue-team-toolkit](#) | DFIR + detection tooling built and battle-tested in live competition defense |
+| [usable-security](#) | Security tools built so non-technical people can actually use them |
+
+## 📫 Reach me
+
+[LinkedIn](#) · giobuilds.com *(or your domain of choice)*
+
+> *Marine Corps security operations, then I learned the technical side the hard way — by building it, breaking it, and fixing it.*
