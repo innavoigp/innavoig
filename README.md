@@ -9,7 +9,7 @@ I came out of the Marine Corps as a CBRN Defense Specialist and taught myself in
 - 🛡️ **Blue team, competition-tested:** SoCalCyberCup blue-team lead · National Cyber League (DFIR)
 - 🏠 **Homelab:** Proxmox virtualization, NAS storage, VLAN network segmentation, Pi-hole DNS filtering, Tailscale zero-trust remote access, encrypted offsite backups
 - 📜 **Certified:** CompTIA Security+ · ISC² CC · CompTIA ITF+
-- 🌱 **Currently leveling up:** CySA+ · Splunk · AI-assisted detection workflows
+- 🌱 **Currently leveling up:** CySA+ · CCNA · AI-assisted detection workflows
 - 🎓 A.S. Cybersecurity → B.S. Cybersecurity (in progress)
 - 🌍 **Languages:** English, Spanish, Python 3
 - ⚡ **Fun fact:** BJJ and Muay Thai in my free time — defense in depth applies to people too. Fueled by Darknet Diaries.
